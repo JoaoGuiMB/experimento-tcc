@@ -64,6 +64,7 @@ Acesse a pagina de login do Automation Anywhere nesse [Link](https://community.c
 Conecte o seu dispositivo selecionando a opção no canto inferior esquerdo e clique em "Connect Local Device", em seguida "Connect to my computer"
 
 ![image](/images/aa_connect.png)
+![image](/images/aa_bot_agent.png)
 
 Será instalado o Bot Agent(AARI) e uma extensão ao Google Chrome. 
 
