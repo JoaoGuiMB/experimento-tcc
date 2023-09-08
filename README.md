@@ -1,4 +1,4 @@
-# Comparando UiPath e Automation Anywhere Aplicados ao Teste Automatizado da Interface Gr ́afica do Usuário
+# Comparando UiPath e Automation Anywhere Aplicados ao Teste Automatizado da Interface Gráfica do Usuário
 
 RPA significa "Automação de Processos Robóticos" (em inglês, Robotic Process Automation). É uma tecnologia que utiliza software ou "robôs" para automatizar tarefas repetitivas, baseadas em regras e que normalmente seriam realizadas por seres humanos. Essas tarefas podem envolver interações com sistemas de software, captura e manipulação de dados, preenchimento de formulários, processamento de transações, entre outras atividades.
 
